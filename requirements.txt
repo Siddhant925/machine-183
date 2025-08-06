@@ -22,7 +22,7 @@ packaging==24.1
 pandas==2.2.3
 pillow==10.4.0
 protobuf==5.28.2
-pyarrow==17.0.0
+
 pydeck==0.9.1
 Pygments==2.18.0
 python-dateutil==2.9.0.post0
@@ -44,3 +44,4 @@ typing_extensions==4.12.2
 tzdata==2024.2
 urllib3==2.2.3
 watchdog==5.0.3
+
